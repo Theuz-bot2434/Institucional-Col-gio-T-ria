@@ -10,7 +10,7 @@ Website institucional para uma escola de Ensino Fundamental (escola fictícia), 
 | Nome | Matrícula |
 |---|---|
 | André Matheus Oliveira de Sá | 01822223 |
-| Luiza Leando de Souza | 01802142 |
+| Luiza Leandro de Souza | 01802142 |
 
 ## Páginas
 
